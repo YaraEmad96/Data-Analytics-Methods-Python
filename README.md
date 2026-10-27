@@ -1,7 +1,7 @@
 # Data-Analytics-Methods-Python
 Skills Demonstrated
 
-• Python
+Python
 • Jupyter Notebook
 • Anaconda
 • Exploratory Data Analysis (EDA)
